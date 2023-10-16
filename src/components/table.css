@@ -1,0 +1,12 @@
+td,th{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+tr{
+    text-align: center;
+}
+
+.fn{
+    width:100px;
+}
